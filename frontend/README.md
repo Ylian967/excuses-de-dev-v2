@@ -11,7 +11,7 @@ L'application permetde générer des excuse de développeurs lorsq'un utilisateu
 ### Etape 1 cloner le projet 
 
 ```bash
-git clone [Url_du_repo]
+git clone https://github.com/Ylian967/excuses-de-dev-v2.git
 cd excuses-dev-v2
 cd frontend
 ```
